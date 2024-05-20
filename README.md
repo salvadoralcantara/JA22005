@@ -8,3 +8,5 @@ Tiene el propósito de realizar la multiplicación de dos números enteros que e
 
 ## 3. División. 
 Su propósito es dividir dos números predefinidos para este caso 8 entre 2 para luego mostrar por pantalla el mensaje División de: 8 / 2 = 4, utilizando registros de 32 bits.
+
+### Alumno: Salvador Isaías Juárez Alcántara - JA22005
