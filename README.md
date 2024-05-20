@@ -1,7 +1,7 @@
 # Actividad evaluada 5 - Portafolio - JA22005
 
 ## 1. Resta de tres enteros 
-El propósito de este programa es llevar a cabo una resta con tres números que definir como 8 - 3 -1  y al final muestra como resultado el número 4, utiliza registros de 16 bits.
+El propósito de este programa es llevar a cabo una resta con tres números que defini como 8 - 3 -1  y al final muestra como resultado el número 4, utiliza registros de 16 bits.
 
 ## 2. Multiplicación. 
 Tiene el propósito de realizar la multiplicación de dos números enteros que en este caso son 4X2 y al final imprime el mensaje multiplicación de 4X2 = 8, utilizando registros de 8bits.
